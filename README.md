@@ -1,4 +1,4 @@
 # alpine
 
-TODO: Enter the cookbook description here.
+This cookbook adds Alpine support for managing packages, network interfaces, and services to Chef.
 
